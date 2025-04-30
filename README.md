@@ -16,5 +16,4 @@ O aplicativo possui uma interface gráfica amigável feita com Tkinter, com os s
 - Botão de saída
 
 ## 📸 Captura de Tela
- ![Interface do app](![Captura de tela de 2025-04-30 01-27-00](https://github.com/user-attachments/assets/24254272-87af-4b9e-9052-95d19e33ca5f)
-)
+![Captura de tela de 2025-04-30 01-27-00](https://github.com/user-attachments/assets/24254272-87af-4b9e-9052-95d19e33ca5f)
